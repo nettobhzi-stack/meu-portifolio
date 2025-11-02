@@ -21,4 +21,11 @@ O design deste portfólio segue uma abordagem **minimalista e sofisticada**, foc
 Este projeto está hospedado no Netlify, integrado diretamente com este repositório do GitHub (Continuous Deployment).
 
 **Link do Projeto Publicado:**
-[COLE AQUI O LINK DO NETLIFY APÓS O PRIMEIRO DEPLOY]
+**Link do Projeto Publicado:**
+https://nettobhzi.netlify.app
+
+
+
+
+
+
